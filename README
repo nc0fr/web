@@ -1,1 +1,57 @@
-SOON
+
+                   .+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
+                  (                                                         )
+                   )      888b    888 888       888 88888888888 888        (
+                  (       8888b   888 888   o   888     888     888         )
+                   )      88888b  888 888  d8b  888     888     888        (
+                  (       888Y88b 888 888 d888b 888     888     888         )
+                   )      888 Y88b888 888d88888b888     888     888        (
+                  (       888  Y88888 88888P Y88888     888     Y8P         )
+                   )      888   Y8888 8888P   Y8888     888      "         (
+                  (       888    Y888 888P     Y888     888     888         )
+                   )                                                       (
+                  (                                                         )
+                   "+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"
+
+              .+"+.+"+.
+             (         )
+              )       (
+             (         )
+              "+.+"+.+"
+                               Z
+     .+"+.                 ZZ
+    (     )
+     "+.+"            z
+
+       _____|~~\_____      _____________
+   _-~               \    |    \
+   _-    | )     \    |__/   \   \
+   _-         )   |   |  |     \  \
+   _-    | )     /    |--|      |  |
+  __-_______________ /__/_______|  |_________
+ (                |----         |  |
+  `---------------'--\\\\      .`--'
+                               `||||
+
+
+
+                              NICOLAS WEB TOOLKIT:
+                         OR HOW TO AVOID BURNING OUT IN
+                        A MODERN JAVASCRIPT ENVIRONMENT.
+
+
+   Introduction
+
+Nicolas Web Toolkit (often shortened NWT or nc0/web) is a set of utility tools
+to allow the development and maintainance of Web products without the hassle
+of modern and complex envinronments.  NWT aims for stability and low-overhead,
+which is appreciated for most of small to medium-sized websites that doesn't
+require much of JavaScript special work.
+
+NWT's main philosophy is to keep consistent with the Web architecture and its
+foundations: the REST architectural pattern, HyperText, XML-esque markups, &c.
+
+
+   Installation
+
+SOON(tm)
